@@ -1,0 +1,92 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nicolasesparza.com" resolutions="1x" timestamp="1496918858751">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="modelado.css" crc="270528438" ref="modelado"/>
+    <file name="animacion.css" crc="4117003412" ref="animacion"/>
+    <file name="2d.css" crc="3899071017" ref="2d"/>
+    <file name="contact.css" crc="488390084" ref="contact"/>
+    <file name="acabados.css" crc="4249970755" ref="acabados"/>
+    <file name="3d.css" crc="137686775" ref="3d"/>
+    <file name="index.css" crc="3906244530" ref="index"/>
+    <file name="home.css" crc="4069681526" ref="home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="museutils.js" crc="3851988764" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="museconfig.js" crc="4242129463" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="require.js" crc="4108833657" ref="2d:acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="pie.js" crc="3831537696" ref="acabados:modelado"/>
+    <file name="webpro.js" crc="4067903014" ref="acabados:modelado"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="acabados:modelado"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="acabados:modelado"/>
+    <file name="touchswipe.js" crc="474750357" ref="acabados:modelado"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:3d:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="alexlineart-u2669.png" crc="3960888904" ref="2d"/>
+    <file name="benjaminsketch-u2679.png" crc="121288716" ref="2d"/>
+    <file name="gardeningdashboardlaf.jpg" crc="3953064369" seo="true" ref="2d"/>
+    <file name="dancinglaf.jpg" crc="290586578" seo="true" ref="2d"/>
+    <file name="snakesgeorge.jpg" crc="334051927" seo="true" ref="2d"/>
+    <file name="bythewindow.jpg" crc="434818544" seo="true" ref="2d"/>
+    <file name="themachine.jpg" crc="3960500692" seo="true" ref="2d"/>
+    <file name="conceptbackground.jpg" crc="3798224650" seo="true" ref="2d"/>
+    <file name="lineartsnakes.jpg" crc="425503418" seo="true" ref="2d"/>
+    <file name="snakes.jpg" crc="28355399" seo="true" ref="2d"/>
+    <file name="sketch03.jpg" crc="4182979357" seo="true" ref="2d"/>
+    <file name="sketch01.jpg" crc="4096374798" seo="true" ref="2d"/>
+    <file name="basicbackground.jpg" crc="233440710" seo="true" ref="2d"/>
+    <file name="laftowel.jpg" crc="203709466" seo="true" ref="2d"/>
+    <file name="starlordalex.jpg" crc="232812991" seo="true" ref="2d"/>
+    <file name="ojosinyin.jpg" crc="506766889" seo="true" ref="2d"/>
+    <file name="conceptartproject3.jpg" crc="4099928179" seo="true" ref="2d"/>
+    <file name="rian.jpg" crc="3818851764" seo="true" ref="2d"/>
+    <file name="merlaf1.jpg" crc="4127561558" seo="true" ref="2d"/>
+    <file name="fun challenge6.jpg" crc="45026241" seo="true" ref="2d"/>
+    <file name="bidones.jpg" crc="4288173237" seo="true" ref="acabados"/>
+    <file name="blank.gif" crc="4208392903" ref="acabados:modelado"/>
+    <file name="renderfinal03.jpg" crc="4120697148" seo="true" ref="acabados"/>
+    <file name="casco.jpg" crc="91599555" seo="true" ref="acabados"/>
+    <file name="renderfinal.jpg" crc="29639478" seo="true" ref="acabados"/>
+    <file name="trompeta.jpg" crc="285322610" seo="true" ref="acabados"/>
+    <file name="bidones130x73.jpg" crc="4197716208" seo="true" ref="acabados"/>
+    <file name="renderfinal03130x73.jpg" crc="4130406229" seo="true" ref="acabados"/>
+    <file name="casco130x73.jpg" crc="21506586" seo="true" ref="acabados"/>
+    <file name="renderfinal130x73.jpg" crc="4119816342" seo="true" ref="acabados"/>
+    <file name="trompeta130x73.jpg" crc="4092580285" seo="true" ref="acabados"/>
+    <file name="loading.gif" crc="3815509949" ref="acabados:modelado"/>
+    <file name="13 basic background-scenery.jpg" crc="233440710" ref="acabados:animacion:modelado:index:home:3d:contact"/>
+    <file name="avro.jpg" crc="4204783365" seo="true" ref="modelado"/>
+    <file name="cabana.jpg" crc="3914136167" seo="true" ref="modelado"/>
+    <file name="coche.jpg" crc="65116596" seo="true" ref="modelado"/>
+    <file name="goldfish.jpg" crc="194212573" seo="true" ref="modelado"/>
+    <file name="avro130x73.jpg" crc="3881937503" seo="true" ref="modelado"/>
+    <file name="cabana130x73.jpg" crc="343206197" seo="true" ref="modelado"/>
+    <file name="coche130x73.jpg" crc="35063415" seo="true" ref="modelado"/>
+    <file name="goldfish130x73.jpg" crc="94640032" seo="true" ref="modelado"/>
+    <file name="n-crop-u688.png" crc="243047092" ref="index"/>
+    <file name="u2942-4.png" crc="3928808409" ref="home"/>
+    <file name="modelado.jpg" crc="484236026" seo="true" ref="3d"/>
+    <file name="acabados.jpg" crc="3897073989" seo="true" ref="3d"/>
+    <file name="animacion.jpg" crc="188171533" seo="true" ref="3d"/>
+    <file name="u1589-4.png" crc="255190063" ref="3d"/>
+    <file name="u1596-4.png" crc="468194916" ref="3d"/>
+    <file name="u1599-4.png" crc="37680160" ref="3d"/>
+    <file name="u3003-4.png" crc="4016098638" ref="contact"/>
+    <file name="tumblr_oo266sp0bz1v5slxwo1_1280.jpg" crc="208435795" seo="true" ref="contact"/>
+    <file name="518c1d289e26314a4cc5181addd824f1.png" crc="15916390" seo="true" ref="contact"/>
+    <file name="f95d43a9a4f5e0cd4a0b6e79cc99d190-tumblr-icon-logo-by-vexels.png" crc="126468667" seo="true" ref="contact"/>
+  </folder>
+  <file name="2d.html" crc="251205818" seo="true" mt="1496914567441" redirect="true"/>
+  <file name="acabados.html" crc="3927341868" seo="true" mt="1496918840961" redirect="true"/>
+  <file name="animacion.html" crc="4289113321" seo="true" mt="1496918840965" redirect="true"/>
+  <file name="modelado.html" crc="3805846328" seo="true" mt="1496918840968" redirect="true"/>
+  <file name="index.html" crc="26445281" seo="true" mt="1496909976027" redirect="true"/>
+  <file name="home.html" crc="3843004552" seo="true" mt="1496918146188" redirect="true"/>
+  <file name="3d.html" crc="3963613210" seo="true" mt="1496918840970" redirect="true"/>
+  <file name="contact.html" crc="435132879" seo="true" mt="1496918645755" redirect="true"/>
+</manifest>
